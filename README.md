@@ -32,20 +32,20 @@ It provides **role-based access** for Guests, Customers, Trainers, and Admins, d
 ## 📸 Screenshots / Sections Overview
 Here’s a visual walkthrough of the project structure and main sections:
 
-| Screenshot | Description |
-|------------|-------------|
-| **f1.PNG** | Index page overview / landing page code reference |
-| **f2.PNG** | Folder structure showing project hierarchy and files |
-| **f3.PNG** | Homepage section with navigation, welcome layout, and interactive elements |
-| **f4.PNG** | Classes section showing available classes and previews for roles |
-| **f5.PNG** | Trainers section displaying trainer profiles and availability |
-| **f6.PNG** | Memberships section with membership plans and role-based options |
-| **f7.PNG** | Bookings section showing booking management and role-dependent features |
-| **f8.PNG** | Gallery section dynamically loading fitness images and events |
-| **f9.PNG** | Contact section for inquiries and secure messaging |
-| **f10.PNG** | Profile section allowing users to edit personal details and memberships |
+| Section | Screenshot |
+|---------|------------|
+| Index Overview | ![f1](images/f1.PNG) |
+| Folder Structure | ![f2](images/f2.PNG) |
+| Homepage Section | ![f3](images/f3.PNG) |
+| Classes Section | ![f4](images/f4.PNG) |
+| Trainers Section | ![f5](images/f5.PNG) |
+| Memberships Section | ![f6](images/f6.PNG) |
+| Bookings Section | ![f7](images/f7.PNG) |
+| Gallery Section | ![f8](images/f8.PNG) |
+| Contact Section | ![f9](images/f9.PNG) |
+| Profile Section | ![f10](images/f10.PNG) |
 
-> These screenshots provide a complete visual walkthrough of FitZone’s **sections** and layout.
+> Each screenshot shows a specific **section** of the FitZone website, demonstrating layout, design, and interactivity.
 
 ---
 
