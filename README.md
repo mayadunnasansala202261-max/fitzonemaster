@@ -29,24 +29,23 @@ It provides **role-based access** for Guests, Customers, Trainers, and Admins, d
 - **Session Management:** Protects restricted pages for security  
 
 ---
+## 📸 Screenshots / Sections Overview
+Here’s a visual walkthrough of the project structure and main sections:
 
-## 📸 Screenshots / Pages Overview
-Here’s a visual walkthrough of the project structure and main pages:
+| Screenshot | Description |
+|------------|-------------|
+| **f1.PNG** | Index page overview / landing page code reference |
+| **f2.PNG** | Folder structure showing project hierarchy and files |
+| **f3.PNG** | Homepage section with navigation, welcome layout, and interactive elements |
+| **f4.PNG** | Classes section showing available classes and previews for roles |
+| **f5.PNG** | Trainers section displaying trainer profiles and availability |
+| **f6.PNG** | Memberships section with membership plans and role-based options |
+| **f7.PNG** | Bookings section showing booking management and role-dependent features |
+| **f8.PNG** | Gallery section dynamically loading fitness images and events |
+| **f9.PNG** | Contact section for inquiries and secure messaging |
+| **f10.PNG** | Profile section allowing users to edit personal details and memberships |
 
-| Screenshot / File | Description |
-|------------------|-------------|
-| **f1index** | Index page code file (for reference, not uploaded to public repo) |
-| **f2 Folder Structure** | Overview screenshot showing project folders and files hierarchy |
-| **f3 Homepage** | Main homepage with navigation and key interactive elements |
-| **Classes Page** | Displays available classes with role-based access and booking options |
-| **Trainers Page** | Trainer profiles and availability (editable for Admin and Trainer roles) |
-| **Memberships Page** | Membership plans with view/edit options based on role |
-| **Bookings Page** | Manage and view bookings; role-dependent functionality for Customer, Trainer, Admin |
-| **Gallery Page** | Dynamically updated gallery section displaying fitness photos and events |
-| **Contact Page** | Contact form for inquiries and customer messages |
-| **Profile Page** | Users can edit profile and membership details (Customers) |
-
-> Screenshots and GIFs can be added here if needed to enhance visual appeal.
+> These screenshots provide a complete visual walkthrough of FitZone’s **sections** and layout.
 
 ---
 
