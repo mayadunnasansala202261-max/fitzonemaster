@@ -34,16 +34,16 @@ Here’s a visual walkthrough of the FitZone website sections:
 
 | Section | Screenshot |
 |---------|------------|
-| Index Overview | ![Index Overview](images/f1.PNG) |
-| Folder Structure | ![Folder Structure](images/f2.PNG) |
-| Homepage Section | ![Homepage Section](images/f3.PNG) |
-| Classes Section | ![Classes Section](images/f4.PNG) |
-| Trainers Section | ![Trainers Section](images/f5.PNG) |
-| Memberships Section | ![Memberships Section](images/f6.PNG) |
-| Bookings Section | ![Bookings Section](images/f7.PNG) |
-| Gallery Section | ![Gallery Section](images/f8.PNG) |
-| Contact Section | ![Contact Section](images/f9.PNG) |
-| Profile Section | ![Profile Section](images/f10.PNG) |
+| Index Overview | ![Index Overview](f1.PNG) |
+| Folder Structure | ![Folder Structure](f2.PNG) |
+| Homepage Section | ![Homepage Section](f3.PNG) |
+| Classes Section | ![Classes Section](f4.PNG) |
+| Trainers Section | ![Trainers Section](f5.PNG) |
+| Memberships Section | ![Memberships Section](f6.PNG) |
+| Bookings Section | ![Bookings Section](f7.PNG) |
+| Gallery Section | ![Gallery Section](f8.PNG) |
+| Contact Section | ![Contact Section](f9.PNG) |
+| Profile Section | ![Profile Section](f10.PNG) |
 
 > Each screenshot shows a specific **section** of the FitZone website, demonstrating layout, design, and interactivity.  
 > Perfect for showcasing in your portfolio.
